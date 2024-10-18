@@ -15,5 +15,11 @@ x = 30
 y = 25
 print(x * y)
 
+# git init
+# git add .
+# git commit -m "first commit"
+# git remote add origin aq chveni repozitoris linki
+# git push -u origin master
+#  git pull --rebase origin master
 
 
