@@ -1,7 +1,8 @@
 # შექმენით for ციკლი, რომელიც გამოიანგარიშებს 0-დან 10-მდე ყველა რიცხვის ჯამს, ხოლო for ციკლის დასრულების შემდეგ დაბეჭდეთ ჯამი
 
-MRgoaman = 55
+MRgoaman = 0
 
-for i in range(0,11):
-    print(i)
+for i in range(11):
+    MRgoaman += i
 
+print(MRgoaman)    

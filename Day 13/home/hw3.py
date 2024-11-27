@@ -1,5 +1,17 @@
 # while ციკლისა და input-ის საშვალებით მომხარებელს შემოატანინეთ პაროლი სანამ არ იქნება ის "group55"-ის ტოლი
-Password = (input("Please input your password: "))
-password2 = "group55"
-while Password != password2:
-    print(input("Please input your password: "))
+secret_password = 'group55'
+user_pass = ''
+
+tries = 3
+
+while tries > 0 and user_pass != secret_password:
+    user_pass = input('Enter password you have ' + str(tries) + 'tries left: ')
+
+    tries -= 1
+
+    if user_pass == secret_password:
+        print("Access Granted.")
+    elif tries == 0:
+        print("you dont have any tries.")
+    else:
+        print('Access Denied, try again.')
