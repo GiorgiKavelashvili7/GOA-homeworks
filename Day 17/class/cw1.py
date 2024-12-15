@@ -2,7 +2,7 @@
 
 list = {55, "goa", "group", True, False, 55.55, "super", 100, "hi"}
 
-print(list[])
+print(list[1])
 print(list[2])
 print(list[3])
 

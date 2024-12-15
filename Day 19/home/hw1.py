@@ -1,1 +1,11 @@
-# we didn't have homework
+# სიის შედგენა მომხმარებლის შეყვანისგან
+# დავალება: მომხმარებელი ათჯერ შემოგთავაზებთ რიცხვს. თქვენ უნდა შეაგროვოთ ეს რიცხვები სიაში, გამოიყენეთ მხოლოდ ცვლადები და ციკლები.
+
+
+
+LIST = []
+
+for i in range(10):
+    num = int(input("Please input some numbers: "))
+    LIST.append(num)
+print(LIST)
