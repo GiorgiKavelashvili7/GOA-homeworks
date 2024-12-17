@@ -1,1 +1,0 @@
-# we had no classwork just some explanations
