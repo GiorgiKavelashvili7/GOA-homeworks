@@ -1,0 +1,19 @@
+The difference between the three styling ways:
+
+[1st]: {Inline way}
+- It is unprofessional.
+- It is an abomination.
+
+
+
+
+[2nd]: {Internal way}
+- It is professional.
+- It is pretty.
+
+
+
+
+[3rd]: {External way}
+- It is very professional.
+- It is gorgoeus.
