@@ -1,0 +1,15 @@
+.bombastic {
+   width: 100px;
+   height: 200px;
+   background-color: aqua;
+   border: 10px, solid, red;
+   border-radius: 200px 0px 50px 300px;
+}
+
+.fantastic {
+   width: 350px;
+   height: 50px;
+   background-color: cadetblue;
+   border: 37px, ridge, brown;
+   border-radius: 578px 10px 123px 750px;
+}

@@ -1,0 +1,18 @@
+h3 {
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-family: cursive;
+}
+
+a {
+    font-family: cursive;
+    color: cadetblue;
+}
+
+#championships {
+    text-align: center;
+}
