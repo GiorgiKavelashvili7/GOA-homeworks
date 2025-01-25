@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(61, 172, 219);
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 100px;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: decimal;
+    font-family: sans-serif;
+}
+
+.a {
+    background-color: rgb(235, 234, 203);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px 0px 0px;
+}
+
+.b {
+    background-color: rgb(235, 234, 203);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px 0px 0px;
+}
+
+.c {
+    background-color: rgb(235, 234, 203);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px 0px 0px;
+}
+
+.d {
+    background-color: rgb(235, 234, 203);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px 0px 0px;
+}
+
+.div1 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(234, 212, 72);
+    border-radius: 50%;
+    transform: translateY(-200px);
+    margin-left: 26px;
+    text-align: center;
+}
+
+.div2 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(234, 212, 72);
+    border-radius: 50%;
+    transform: translateY(-192px);
+    margin-left: 26px;
+    text-align: center;
+}
+
+.div3 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(234, 212, 72);
+    border-radius: 50%;
+    transform: translateY(-184px);
+    margin-left: 26px;
+    text-align: center;
+}
+
+.div4 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(234, 212, 72);
+    border-radius: 50%;
+    transform: translateY(-176px);
+    margin-left: 26px;
+    text-align: center;
+}
