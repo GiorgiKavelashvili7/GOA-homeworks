@@ -1,0 +1,41 @@
+#a:link {
+    color: red;
+    font-family: cursive;
+}
+
+#a:visited {
+    color: blue;
+    font-family: sans-serif
+}
+
+#a:active {
+    color: purple;
+    font-family: monospace;
+}
+
+#a:hover {
+    color: cadetblue;
+    font-family: 'Times New Roman';
+}
+
+/* ------------------------------------------------------------- */
+
+#b:link {
+    color: chocolate;
+    font-size: 10px;
+}
+
+#b:visited {
+    color: blue;
+    font-size: 10cm;
+}
+
+#b:active {
+    color: orange;
+    font-size: 10ch;
+}
+
+#b:hover {
+    color: lightskyblue;
+    font-size: 10fr;
+}

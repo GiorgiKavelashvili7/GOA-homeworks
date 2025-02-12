@@ -1,0 +1,44 @@
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+tr:nth-child(1) {
+    color: rgb(25, 78, 105);
+    background-color: rgb(31, 39, 57);
+}
+
+tr:nth-child(2) {
+    color: rgb(173, 90, 104);
+    background-color: rgb(70, 74, 82);
+}
+
+tr:nth-child(3) {
+    color: rgb(176, 83, 103);
+    background-color: rgb(44, 52, 70);
+}
+
+tr:nth-child(4) {
+    color: rgb(176, 83, 103);
+    background-color: rgb(50, 60, 80);
+}
+
+tr:nth-child(5) {
+    color: rgb(176, 83, 103);
+    background-color: rgb(44, 52, 70);
+}
+    
+tr:nth-child(6) {
+    color: rgb(176, 83, 103);
+    background-color: rgb(50, 60, 80);
+}
+
+tr:nth-child(7) {
+    color: rgb(176, 83, 103);
+    background-color: rgb(44, 52, 70);
+}
+
+#special_guy {
+    background-color: rgb(255, 248, 66);
+}
