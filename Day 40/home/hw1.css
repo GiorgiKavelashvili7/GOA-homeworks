@@ -1,0 +1,165 @@
+body {
+    background-color: rgb(225, 234, 255);
+}
+
+
+#A {
+    width: 200px;
+    height: 370px;
+    border-radius: 20px;
+    background-color: rgb(76, 55, 244);
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(194, 185, 255);
+    padding-top: 1px;
+}
+
+#Aa {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(71, 43, 217);
+    margin: 20px 0px 0px 20px;
+}
+
+.BOMBOCLAT {
+    font-size: 50px;
+    color: rgb(250, 253, 247);
+    padding-top: 20px;
+}
+
+.HIYA {
+    font-size: 15px;
+    color: rgb(93, 78, 229);
+    padding-bottom: 60px;
+}
+
+.im_tired {
+    color: rgb(252, 255, 255);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.SSS {
+    transform: translateY(-18px) 
+}
+
+
+#B {
+    width: 200px;
+    height: 370px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 200px;
+    transform: translateY(-390px);
+}
+
+.BOMBASTIC {
+    font-family: sans-serif;
+    color: rgb(53, 61, 86);
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+#Ba {
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(255, 246, 247);
+    transform: translateX(10px);
+}
+
+#Bb {
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(255, 250, 244);
+    transform: translateX(10px);
+    margin-top: 10px;
+}
+
+#Bc {
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(242, 253, 249);
+    transform: translateX(10px);
+    margin-top: 10px;
+}
+
+#Bd {
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(244, 244, 254);
+    transform: translateX(10px);
+    margin-top: 10px;
+}
+
+#GIGA-IS-GOATEDDDDD {
+    border-radius: 30px;
+    width: 170px;
+    height: 40px;
+    background-color: rgb(48, 59, 89);
+    margin-top: 50px;
+    transform: translateX(20px);
+}
+
+.hello {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    transform: translateX(37px);
+    padding-top: 10px;
+}
+
+img {
+    transform: translateY(10px);
+    margin-left: 10px;
+}
+
+.one {
+    font-family: sans-serif;
+    transform: translateY(-28px);
+    margin-left: 40px;
+    color: rgb(231, 101, 105);
+    font-size: 15px;
+}
+
+.two {
+    font-family: sans-serif;
+    transform: translateY(-28px);
+    margin-left: 40px;
+    color: rgb(224, 184, 106);
+    font-size: 15px;
+}
+
+.three {
+    font-family: sans-serif;
+    transform: translateY(-28px);
+    margin-left: 40px;
+    color: rgb(56, 190, 153);
+    font-size: 15px; 
+}
+
+.four {
+    font-family: sans-serif;
+    transform: translateY(-28px);
+    margin-left: 40px;
+    color: rgb(93, 100, 184);
+    font-size: 15px;
+}
+
+.hi {
+    font-family: sans-serif;
+    transform: translateY(-60px);
+    margin-left: 108px;
+}
+
+.hoop {
+    transform: translateY(-94px);
+    margin-left: 128px;
+    color: rgb(181, 183, 194);
+    font-family: sans-serif;
+}
