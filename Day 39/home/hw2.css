@@ -1,0 +1,23 @@
+.a {
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+
+    transform: translate(-100px);
+}
+
+.b {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+
+    transform: rotate(100px);
+}
+
+.c {
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+
+    transform: scale(100);
+}
