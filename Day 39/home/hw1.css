@@ -5,7 +5,7 @@ body {
 .BOMBOCLAT {
     background-color: rgb(21, 39, 63);
     width: 200px;
-    height: 350px;
+    height: 340px;
     border-radius: 15px;
     margin-left: 310px;
     margin-top: 20px;
@@ -30,18 +30,53 @@ body {
 
 #THE_END_IS_NEAR {
     font-family: sans-serif;
-    font-size: 7px;
+    font-size: 9px;
     color: rgb(119, 136, 167);
     padding-left: 10px;
 }
 
-#A {
+.A {
     color: rgb(6, 255, 249);
     font-family: sans-serif;
     font-size: 10px;
+    padding-left: 10px;
 }
 
-#B {
+.B {
+    color: rgb(125, 146, 178);
     font-family: sans-serif;
     font-size: 10px;
+    padding-left: 120px;
+    transform: translateY(-29px);
+}
+
+#BEWARE {
+    width: 173px;
+    height: 2px;
+    background-color: rgb(34, 52, 76);
+    margin-left: 10px;
+    transform: translateY(-28px);
+}
+
+#IMAGE {
+    width: 40px;
+    height: 40px;
+    transform: translateY(-20px);
+    margin-left: 10px;
+}
+
+#END {
+    font-family: sans-serif;
+    color: rgb(132, 154, 185);
+    transform: translateY(-63px);
+    margin-left: 55px;
+    font-size: 12px;
+}
+
+#NEW_EARTH {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(239, 247, 255);
+    transform: translateY(-90px);
+    margin-left: 120px;
 }
