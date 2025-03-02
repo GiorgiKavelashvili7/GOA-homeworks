@@ -1,0 +1,33 @@
+div {
+    width: 80px;
+    height: 55px;
+    border-radius: 15px;
+    background-color: rgb(146, 185, 1);
+    text-align: center;
+    font-family: sans-serif;
+
+    transform: rotateX(360deg);
+    transition: 2s;
+
+    animation-direction: alternate;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-name: MovingElem;
+}
+
+@keyframes MovingElem {
+   0% {
+    transform: rotateZ(0deg);
+    margin-left: 0px;
+   }
+
+   50% {
+    transform: rotateZ(360deg);
+    margin-left: 200px;
+   }
+
+   100% {
+    transform: rotateZ(360deg);
+    margin-left: 0px;
+   }
+}

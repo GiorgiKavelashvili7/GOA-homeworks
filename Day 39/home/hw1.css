@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(13, 26, 45);
+}
+
+.BOMBOCLAT {
+    background-color: rgb(21, 39, 63);
+    width: 200px;
+    height: 350px;
+    border-radius: 15px;
+    margin-left: 310px;
+    margin-top: 20px;
+}
+
+#JESUS_IS_COMING_BACK_BROTHERS {
+    width: 20px;
+    width: 170px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+}
+
+#STAY_AWAKE {
+    font-size: 12px;
+    font-family: sans-serif;
+    padding-left: 10px;
+    margin-top: 10px;
+    color: rgb(210, 223, 225);
+}
+
+#THE_END_IS_NEAR {
+    font-family: sans-serif;
+    font-size: 7px;
+    color: rgb(119, 136, 167);
+    padding-left: 10px;
+}
+
+#A {
+    color: rgb(6, 255, 249);
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+#B {
+    font-family: sans-serif;
+    font-size: 10px;
+}
