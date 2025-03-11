@@ -5,11 +5,7 @@ The function should return true if you are employed and not on vacation (because
 """
 
 def set_alarm(employed, vacation):
-    if employed == True and vacation == True:
-        return False
-    elif employed == True and vacation == False:
+    if employed == True and vacation == False:
         return True
-    elif employed == False and vacation == True:
-        return False
-    elif employed == False and vacation == False:
+    else:
         return False

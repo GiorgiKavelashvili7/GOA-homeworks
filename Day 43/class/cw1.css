@@ -1,0 +1,71 @@
+:root {
+    --pColor: red;
+    --pBackground-color: brown;
+    --pLetter-spacing: 10px;
+    --pDisplay: inline;
+    --pBox: border-box;
+    --pPadding: 10px 0px 0px 10px;
+    --pMargin: 10px 0px 0px 10px;
+    --pTransform: -100px 50px;
+    --pPosition: relative;
+    --pTransition: 1s;
+
+    --btnColor: red;
+    --btnBackground-color: brown;
+    --btnLetter-spacing: 10px;
+    --btnDisplay: inline;
+    --btnBox: border-box;
+    --btnPadding: 10px 0px 0px 10px;
+    --btnMargin: 10px 0px 0px 10px;
+    --btnTransform: -100px 50px;
+    --btnPosition: relative;
+    --btnTransition: 1s;
+
+    --h1Color: red;
+    --h1Background-color: brown;
+    --h1Letter-spacing: 10px;
+    --h1Display: inline;
+    --h1Box: border-box;
+    --h1Padding: 10px 0px 0px 10px;
+    --h1Margin: 10px 0px 0px 10px;
+    --h1Transform: -100px 50px;
+    --h1Position: relative;
+    --h1Transition: 1s;
+    
+}
+
+p {
+    color: var(--pColor);
+    background-color: var(--pBackground-color);
+    letter-spacing: var(--pLetter-spacing);
+    display: var(--pDisplay);
+    box-sizing: var(--pBox);
+    padding: var(--pPadding);
+    margin: var(--pMargin);
+    transform: var(--pTransform);
+    transition: var(--pTransition);
+}
+
+button {
+    color: var(--btnColor);
+    background-color: var(--btnBackground-color);
+    letter-spacing: var(--btnLetter-spacing);
+    display: var(--btnDisplay);
+    box-sizing: var(--btnBox);
+    padding: var(--btnPadding);
+    margin: var(--btnMargin);
+    transform: var(--btnTransform);
+    transition: var(--btnTransition);
+}
+
+h1 {
+    color: var(--h1Color);
+    background-color: var(--h1Background-color);
+    letter-spacing: var(--h1Letter-spacing);
+    display: var(--h1Display);
+    box-sizing: var(--h1Box);
+    padding: var(--h1Padding);
+    margin: var(--h1Margin);
+    transform: var(--h1Transform);
+    transition: var(--h1Transition);
+}
